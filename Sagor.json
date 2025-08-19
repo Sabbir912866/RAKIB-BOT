@@ -21,7 +21,141 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot Pack v2",
+  "BOTNAME": "জাঁতিঁরঁ ভঁন্ডঁ বঁটঁ ❐🩷🪽°",
+  "PREFIX": "+",
+  "ADMINBOT": [
+    "61574774314679",
+    ""
+  ],
+  "reactUnsend": [
+    "😡",
+    "😾",
+    "👎",
+    "😠"
+  ],
+  "DESIGN": {
+    "Title": "SAGOR",
+    "Theme": "Blue",
+    "Admin": "SaGor",
+    "Setup": {
+      "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+      "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "Sagorstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "optionsFca": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "updatePresence": true,
+    "listenTyping": false,
+    "logLevel": "error",
+    "selfListen": false,
+    "selfListenEvent": true,
+  autoMarkDelivery": false,
+    "autoReconnect": false
+  },
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  }
+},
+  "PREFIX": "-",
+  "ADMINBOT": [
+    "100048281103451",
+    ""
+  ],
+  "reactUnsend": [
+    "😡",
+    "😾",
+    "👎",
+    "😠"
+  ],
+  "DESIGN": {
+    "Title": "SAGOR",
+    "Theme": "Blue",
+    "Admin": "SaGor",
+    "Setup": {
+      "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+      "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "Sagorstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "optionsFca": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "updatePresence": true,
+    "listenTyping": false,
+    "logLevel": "error",
+    "selfListen": false,
+    "selfListenEvent": true,
+    "autoMarkDeliv",
+  "PREFIX": "-",
+  "ADMINBOT": [
+    "100048281103451",
+    ""
+  ],
+  "reactUnsend": [
+    "😡",
+    "😾",
+    "👎",
+    "😠"
+  ],
+  "DESIGN": {
+    "Title": "SAGOR",
+    "Theme": "Blue",
+    "Admin": "SaGor",
+    "Setup": {
+      "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+      "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "Sagorstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "optionsFca": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "updatePresence": true,
+    "listenTyping": false,
+    "logLevel": "error",
+    "selfListen": false,
+    "selfListenEvent": true,
+    "autoMarkDelivery"",
   "PREFIX": "-",
   "ADMINBOT": [
     "100048281103451",
